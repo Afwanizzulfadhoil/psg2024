@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+}
+
+/* user_dashoard style */
+#bar p{
+    color: black;
+    font-size: 20px;
+    align-items: center;
+}
